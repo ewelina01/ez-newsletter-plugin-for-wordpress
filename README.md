@@ -1,4 +1,6 @@
-# newsletter plugin for wordpress
+# Newsletter Plugin for WordPress
+
+Autor: Ewelina Ziobro
 
 Aby wyświetlić wtyczkę na stronie, należy użyć shortcodu:
 [ez_newsletter_form]
